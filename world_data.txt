@@ -1,0 +1,19 @@
+[general]
+name=Bobo Is Them
+author=Banbadle
+themecount=3
+firstlevel=15level
+start=15level
+mods=1
+
+[levels]
+levelid=35
+rolling_levelid=35
+
+[permanent_rules]
+numrules=4
+rule0={{"ghost","is","phantom",},{},}
+rule1={{"ghost","is","them",},{},}
+rule2={{"ghost","is","not them",},{},}
+rule3={{"bobo","is","them",},{},}
+
